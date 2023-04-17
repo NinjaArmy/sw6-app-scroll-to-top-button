@@ -1,15 +1,15 @@
 .scroll-up-button {
     .btn-primary {
-        background-color: var(--ninja-bg-color);
+        background-color: var(--ninja-bg-color, inherit);
         span {
            .icon-arrow-up {
-                color: var(--ninja-arrow-color);
+                color: var(--ninja-arrow-color, inherit);
            }
         }  
     }
 
     .btn-primary:not(:disabled):not(.disabled):active {
-        background-color: var(--ninja-bg-color-active);
+        background-color: var(--ninja-bg-color-active, inherit);
     }
     
     .btn-primary:focus {
