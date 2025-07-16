@@ -11,6 +11,7 @@
             <label lang="de-DE">Button Farbe</label>
             <helpText>You can define the background color of the back-to-top button here.</helpText>
             <helpText lang="de-DE">Hier können Sie die Hintergrundfarbe des Back-To-Top Buttons definieren.</helpText>
+            <defaultValue>#215aac</defaultValue>
         </input-field>
 
         <input-field type="colorpicker">
@@ -19,6 +20,7 @@
             <label lang="de-DE">Pfeil Farbe</label>
             <helpText>You can define the arrow Color here.</helpText>
             <helpText lang="de-DE">Hier können Sie die Pfeilfarbe definieren.</helpText>
+            <defaultValue>#fff</defaultValue>
         </input-field>
 
         <input-field type="colorpicker">
@@ -27,6 +29,7 @@
             <label lang="de-DE">Randfarbe</label>
             <helpText>You set a border color here. This is not necessary</helpText>
             <helpText lang="de-DE">Hier können Sie die Randfarbe definieren. Dies ist nicht notwendig.</helpText>
+            <defaultValue>#215aac</defaultValue>
         </input-field>
 
         <input-field type="colorpicker">
@@ -35,6 +38,7 @@
             <label lang="de-DE">Farbe beim Klick</label>
             <helpText>If someone clicks the button the color of the button can change. Define that color here.</helpText>
             <helpText lang="de-DE">Wenn jemand auf den Button klickt kann die Farbe sich verändern. Definieren Sie die Farbe hier.</helpText>
+            <defaultValue>#215aac</defaultValue>
         </input-field>
 
     </card>
